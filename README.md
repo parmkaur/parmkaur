@@ -1,4 +1,5 @@
-### Hello There  , I'm Parminder 
+### Hello There ![Hi](https://user-images.githubusercontent.com/65789810/150911813-f82a770d-3e97-4340-b6bf-6c64861bc6a3.gif)
+, I'm Parminder 
 
 
 I love building end-to-end **Machine Learning** projects. Looking for an organization where I can enhance my technical knowledge and apply the skillset learned during my studies.
