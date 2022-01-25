@@ -1,4 +1,4 @@
-### Hello There 👋, I'm Parminder 
+### Hello There  , I'm Parminder 
 
 
 I love building end-to-end **Machine Learning** projects. Looking for an organization where I can enhance my technical knowledge and apply the skillset learned during my studies.
