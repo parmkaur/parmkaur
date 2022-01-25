@@ -1,4 +1,4 @@
-### Hello There ![Hi (1)](https://user-images.githubusercontent.com/65789810/150911903-b942cf70-cf37-4e31-b831-eaadcc0e43db.gif)
+### Hello There ![Hi (1)](https://user-images.githubusercontent.com/65789810/150911903-b942cf70-cf37-4e31-b831-eaadcc0e43db.gif,  ,width="250", height="250")
 , I'm Parminder 
 
 
