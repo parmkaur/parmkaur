@@ -15,3 +15,4 @@ Check out my featured repos to know my skills better. Hit a ⭐ if you like it.
 
 Thank you so much for your time!
 
+[![Parm's GitHub stats](https://github-readme-stats.vercel.app/api?username=parmkaur)](https://github.com/parmkaur/github-readme-stats)
