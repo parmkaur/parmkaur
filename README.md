@@ -1,4 +1,4 @@
-### Hello There <img src="https://user-images.githubusercontent.com/65789810/150912087-622986a4-00c2-466d-9803-a52db7fad11f.gif" data-canonical-src="https://user-images.githubusercontent.com/65789810/150912087-622986a4-00c2-466d-9803-a52db7fad11f.gif" width="150" height="150" />, I'm Parminder 
+### Hello There <img src="https://user-images.githubusercontent.com/65789810/150912087-622986a4-00c2-466d-9803-a52db7fad11f.gif" data-canonical-src="https://user-images.githubusercontent.com/65789810/150912087-622986a4-00c2-466d-9803-a52db7fad11f.gif" width="50" height="50" />, I'm Parminder 
 
 
 I love building end-to-end **Machine Learning** projects. Looking for an organization where I can enhance my technical knowledge and apply the skillset learned during my studies.
