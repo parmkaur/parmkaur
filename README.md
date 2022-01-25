@@ -9,7 +9,7 @@ I love building end-to-end **Machine Learning** projects.Looking for Full Time j
 - ⚡ Fun fact: I prefer to go outside and relish the beauty of nature. Also, I love to sing which is my best stress-buster technique.
 - 🤔 Favourite hobby:- Playing with numbers and reading new AI research products
 - 📧 Email id? parminderkaur@utdallas.edu
-- 📄 Link to my [RESUME](https://drive.google.com/drive/u/0/my-drive){:target="_blank"}
+- 📄 Link to my [RESUME](https://drive.google.com/drive/u/0/my-drive){:target="_blank"}.
 
 
 Check out my featured repos to know my skills better. Hit a ⭐ if you like it.
