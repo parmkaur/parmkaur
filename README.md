@@ -10,6 +10,7 @@ I love building end-to-end **Machine Learning** projects.Looking for Full Time j
 - 🤔 Favourite hobby:- Playing with numbers and reading new AI research products
 - 📧 Email id? parminderkaur@utdallas.edu
 - 📄 Link to my [RESUME](https://drive.google.com/drive/u/0/my-drive){:target="_blank" rel="noopener"}
+<a href="https://drive.google.com/drive/u/0/my-drive"_blank">external link</a>
 
 
 Check out my featured repos to know my skills better. Hit a ⭐ if you like it.
