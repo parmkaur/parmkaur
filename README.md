@@ -5,8 +5,9 @@ I love building end-to-end **Machine Learning** projects. Looking for an organiz
 
 Check out my featured repos to know my skills better. Hit a ⭐ if you like it.
 
-- 👯 looking for Full Time job opportunity in Data Science/Machine Learning
-- ⚡ Fun facts about me: Never give up attitude is my biggest strength. 
+- 👯 Looking for Full Time job opportunity in Data Science/Machine Learning
+- 💼 Previously worked as a Data Scientist Intern at Duke-AI, LLC.
 - 📫 How to reach me: parminderkaur@utdallas.edu
 
 Thank you so much for your time!
+
