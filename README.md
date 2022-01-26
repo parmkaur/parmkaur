@@ -6,7 +6,7 @@ I love building end-to-end **Machine Learning / Deep Learning** projects. Lookin
 - 🔭 Currently working on mastering skills of Data Exploratory Analysis, ML Model Deployment
 - 🔭 Currently working on End to End Credit Card fraud detection model
 - ⚡ Fun fact: Compassionate, Nature Lover and Singer
-- 🤔 Favourite hobby:- Playing with numbers and reading new AI researches
+- 🤔 Favourite hobby:- Playing with numbers and reading about new AI researches
 - 📧 Email id? parminderkaur@utdallas.edu
 - 📄 Link to my <a href="https://drive.google.com/file/d/13_TPyHNOY9UhguSGJaHAPsxZ9hs_WUUt/view?usp=sharing" target="_blank">RESUME</a>
 
