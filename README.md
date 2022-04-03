@@ -2,9 +2,8 @@
 
 I love building end-to-end **Machine Learning / Deep Learning** projects. Looking for Full Time job opportunity in Data Science/Machine Learning.
 
-- 💼 Previously worked as a Data Scientist Intern at Duke-AI, LLC.
+- 💼 Working as a Data Scientist at EY
 - 🔭 Currently working on mastering skills of Data Exploratory Analysis, ML Model Deployment
-- 🔭 Currently working on End to End Credit Card fraud detection model
 - ⚡ Fun fact: Compassionate, Nature Lover and Singer
 - 🤔 Favourite hobby:- Playing with numbers and reading about new AI researches
 - 📧 Email id? parminderkaur@utdallas.edu
